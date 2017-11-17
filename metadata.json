@@ -38,9 +38,7 @@
   "operatingsystem_support": [
     {
       "operatingsystem": "Debian",
-      "operatingsystemrelease": [
-        "7"
-      ]
+      "operatingsystemrelease": []
     },
     {
       "operatingsystem": "RedHat",
